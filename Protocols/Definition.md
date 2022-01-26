@@ -28,8 +28,6 @@ Same steps can be applied on communication happend in computer networks:-
 
 So in conclusion of this anology we can say:
 
-```
-A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message
-```
+`A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message`
 
 In the next section we will discuss different types of protocols.
