@@ -1,6 +1,6 @@
 # system-design
 
-## Sylabus :-
+## Topics :-
 
 1. Protocols
 2. client-server model
