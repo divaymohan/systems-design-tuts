@@ -1,4 +1,6 @@
-# What is protocol ?
+# Network protocols
+
+## What is protocol ?
 
 In general protocol means a set of rules. Let's take one analogy to understand protocols.
 
@@ -14,7 +16,11 @@ Let say you you want to communicate some random person so there will be some set
 
 5. If person next to you didn't reply thats means he is not intrested in talking.
 
-Same steps can be applied on communication happend in computer networks:-
+## what is network protocols?
+
+A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message.
+
+steps can be applied on communication happend in computer networks:-
 
 1. First source and destination choose a language. It could be JSON, XML etc.
 
@@ -26,8 +32,3 @@ Same steps can be applied on communication happend in computer networks:-
 
 5. If destination system didn't reply than may be the message is lost somewhere is the possibility. But if destination system didn't reply after many tries that means destination system is down.
 
-So in conclusion of this anology we can say:
-
-`A protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message`
-
-In the next section we will discuss different types of protocols.
