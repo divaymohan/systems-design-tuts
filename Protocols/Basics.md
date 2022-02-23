@@ -32,3 +32,19 @@ steps can be applied on communication happend in computer networks:-
 
 5. If destination system didn't reply than may be the message is lost somewhere is the possibility. But if destination system didn't reply after many tries that means destination system is down.
 
+## Most common protocols?
+
+1. IP (Internet protocol)
+
+2. TCP
+
+3. HTTP
+
+* why we need sequence number.
+* source address and destination address.
+* port number
+* IP header
+* TCP header
+* header
+* data
+* curl command
