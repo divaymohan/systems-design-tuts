@@ -60,7 +60,21 @@ curl --output filename http://localhost:5000/methods
 curl -o filename http://localhost:5000/methods
 ```
 
-## CURL Options
+## To see json response in json format
 
-1. 
+```
+curl http://localhost:5000/methods/json | jq
+```
+
+## To get only response header
+
+```
+curl -I http://localhost:5000/methods
+```
+
+## To follow the redirect and print both the headers
+
+```
+curl -I -L http://localhost:5000/redirect
+```
 
